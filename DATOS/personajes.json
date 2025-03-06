@@ -1,0 +1,433 @@
+[
+    {
+        "name": "Ari Blanco Commerford",
+        "season": [4,5,6],
+        "image": "IMG/PERSONAJES/Ari.jpg",
+        "actor": "Carla Díaz",
+        "video":""
+    },
+
+    {
+        "name": "Armando",
+        "season": [4],
+        "image": "IMG/PERSONAJES/Armando.jpg",
+        "actor": "Andrés Velencoso",
+        "video":"https://www.youtube.com/watch?v=jY5pRibnkb0"
+    },
+
+    {
+        "name": "Ander Muñoz",
+        "season": [1,2,3,4],
+        "image": "IMG/PERSONAJES/Ander.jpg",
+        "actor": "Arón Piper",
+        "video":""
+    },
+
+    {
+        "name": "Azucena ",
+        "season": [1],
+        "image": "IMG/PERSONAJES/Azucena.jpg",
+        "actor": "Elisabet Gelabert",
+        "video":""
+    },
+
+    {
+        "name": "Benjamin Blanco",
+        "season": [4,5],
+        "image": "IMG/PERSONAJES/Benjamin.jpg",
+        "actor": "Diego Martín",
+        "video":""
+    },
+
+    {
+        "name": "Bilal",
+        "season": [5,6],
+        "image": "IMG/PERSONAJES/Bilal.jpg",
+        "actor": "Adam Nourou",
+        "video":""
+    },
+
+    {
+        "name": "Carla Roscón Caleruega",
+        "season": [1,2,3],
+        "image": "IMG/PERSONAJES/Carla.jpg",
+        "actor": "Esther Expósito",
+        "video":""
+    },
+
+    {
+        "name": "Carmen",
+        "season": [7,8],
+        "image": "IMG/PERSONAJES/Carmen.jpg",
+        "actor": "Marible Verdú",
+        "video":""
+    },
+
+    {
+        "name": "Cayetana Grajera Pando",
+        "season": [2,3,4,5],
+        "image": "IMG/PERSONAJES/Cayetana.jpg",
+        "actor": "Georgina Amorós",
+        "video":""
+    },
+
+    {
+        "name": "Chloe",
+        "season": [7,8],
+        "image": "IMG/PERSONAJES/Chloe.jpg",
+        "actor": "Mirela Balic",
+        "video":""
+    },
+
+    {
+        "name": "Christian Varela Expósito",
+        "season": [1,2],
+        "image": "IMG/PERSONAJES/Christian.jpg",
+        "actor": "Miguel Herrán",
+        "video":""
+    },
+
+    {
+        "name": "Cruz Carvalho",
+        "season": [5],
+        "image": "IMG/PERSONAJES/Cruz.jpg",
+        "actor": "Carloto Cotta",
+        "video":""
+    },
+    
+    {
+        "name": "Cruz Carvalho",
+        "season": [6],
+        "image": "IMG/PERSONAJES/Cruz.jpg",
+        "actor": "Carloto Cotta",
+        "video":"https://www.youtube.com/watch?v=IzNaeKs0QoI"
+    },
+
+    {
+        "name": "Didac",
+        "season": [6,7],
+        "image": "IMG/PERSONAJES/Didac.jpg",
+        "actor": "Álvaro de Juana",
+        "video":""
+    },
+
+    {
+        "name": "Emilia Krawietz",
+        "season": [8],
+        "image": "IMG/PERSONAJES/Emilia.jpg",
+        "actor": "Ane Rot",
+        "video":""
+    },
+
+    {
+        "name": "Eric",
+        "season": [7,8],
+        "image": "IMG/PERSONAJES/Eric.jpg",
+        "actor": "Gleb Abrosimov",
+        "video":""
+    },
+   
+    {
+        "name": "Guzman Nunier Osuna",
+        "season": [1,2,3,4],
+        "image": "IMG/PERSONAJES/Guzman.jpg",
+        "actor": "Miguel Bernardeau",
+        "video":""
+    },
+
+    {
+        "name": "Héctor Krawietz",
+        "season": [8],
+        "image": "IMG/PERSONAJES/Hector.jpg",
+        "actor": "Nuno Gallego",
+        "video":""
+    },
+
+    {
+        "name": "Hugo",
+        "season": [6],
+        "image": "IMG/PERSONAJES/Hugo.jpg",
+        "actor": "Guillermo Campra",
+        "video":""
+    },
+
+    {
+        "name": "Isadora Artiñán",
+        "season": [5,6,7,8],
+        "image": "IMG/PERSONAJES/Isadora.jpg",
+        "actor": "Valentina Zenere",
+        "video":""
+    },
+
+    {
+        "name": "Iván Carvalho",
+        "season": [5,6,7,8],
+        "image": "IMG/PERSONAJES/Ivan.jpg",
+        "actor": "André Lamoglia",
+        "video":""
+    },
+
+    {
+        "name": "Javier",
+        "season": [6],
+        "image": "IMG/PERSONAJES/Javier.jpg",
+        "actor": "Ignacio Carrascal",
+        "video":""
+    },
+
+    {
+        "name": "Jessica",
+        "season": [7],
+        "image": "IMG/PERSONAJES/Jessica.jpg",
+        "actor": "Anitta",
+        "video":""
+    },
+
+    {
+        "name": "Joel Castellano Soler",
+        "season": [7],
+        "image": "IMG/PERSONAJES/Joel.jpg",
+        "actor": "Fernando Líndez",
+        "video":""
+    },
+    
+    {
+        "name": "Joel Castellano Soler",
+        "season": [8],
+        "image": "IMG/PERSONAJES/Joel.jpg",
+        "actor": "Fernando Líndez",
+        "video":"https://www.youtube.com/watch?v=7onia3S_Bx8"
+    },
+
+    {
+        "name": "Laura Osuna",
+        "season": [1],
+        "image": "IMG/PERSONAJES/Laura.jpg",
+        "actor": "Rocío Muñoz-Cobo",
+        "video":""
+    },
+
+    {
+        "name": "Leopoldo Benavent Villada (Polo)",
+        "season": [1,2],
+        "image": "IMG/PERSONAJES/polo.jpg",
+        "actor": "Álvaro Rico",
+        "video":""
+    },
+
+    {
+        "name": "Leopoldo Benavent Villada (Polo)",
+        "season": [3],
+        "image": "IMG/PERSONAJES/polo.jpg",
+        "actor": "Álvaro Rico",
+        "video":"https://www.youtube.com/watch?v=jeNl80eWeNk"
+    },
+  
+    {
+        "name": "Lucrecia Montesinos Hendrich (Lu)",
+        "season": [1,2,3],
+        "image": "IMG/PERSONAJES/Lucrecia.jpg",
+        "actor": "Danna Paola",
+        "video":""
+    },
+
+    {
+        "name": "Luis Marín",
+        "season": [7],
+        "image": "IMG/PERSONAJES/Luis.jpg",
+        "actor": "Alejandro Albarracín",
+        "video":""
+    },
+    
+    {
+        "name": "Luis Marín",
+        "season": [8],
+        "image": "IMG/PERSONAJES/Luis.jpg",
+        "actor": "Alejandro Albarracín",
+        "video":"https://www.youtube.com/watch?v=uFbAWwbReUM"
+    },
+
+    {
+        "name": "Malick Diallo",
+        "season": [2,3],
+        "image": "IMG/PERSONAJES/Malick.jpg",
+        "actor": "Leïti Sène",
+        "video":""
+    },
+
+    {
+        "name": "Marina Nunier Osuna",
+        "season": [1],
+        "image": "IMG/PERSONAJES/Marina.jpg",
+        "actor": "Maria Pedraza",
+        "video":"https://www.youtube.com/watch?v=OAA2K5exDB4"
+    },
+
+    {
+        "name": "Martín",
+        "season": [7],
+        "image": "IMG/PERSONAJES/Martin.jpg",
+        "actor": "Leonardo Sbaraglia",
+        "video":""
+    },
+
+    {
+        "name": "Mencía Blanco Commerford",
+        "season": [4,5,6],
+        "image": "IMG/PERSONAJES/Mencia.jpg",
+        "actor": "Martina Cariddi",
+        "video":""
+    },
+
+    {
+        "name": "Nadia Shanaa",
+        "season": [1,2,3,8],
+        "image": "IMG/PERSONAJES/Nadia.jpg",
+        "actor": "Mina El Hammani",
+        "video":""
+    },
+    
+    {
+        "name": "Nano García",
+        "season": [1,2],
+        "image": "IMG/PERSONAJES/Nano.jpg",
+        "actor": "Jaime Lorente",
+        "video":""
+    },
+
+    {
+        "name": "Nico Fernández de Velasco",
+        "season": [6,7,8],
+        "image": "IMG/PERSONAJES/Nico.jpg",
+        "actor": "Ander Puig",
+        "video":""
+    },
+
+    {
+        "name": "Omar Shanaa",
+        "season": [1,2,3,4,5,6,7,8],
+        "image": "IMG/PERSONAJES/Omar.jpg",
+        "actor": "Omar Ayuso",
+        "video":""
+    },
+
+    {
+        "name": "Patrick Blanco Commerford",
+        "season": [4,5,6],
+        "image": "IMG/PERSONAJES/Patrick.jpg",
+        "actor": "Manu Rios",
+        "video":""
+    },
+
+    {
+        "name": "Philippe Florian Von Triesenberg",
+        "season": [4,5,6],
+        "image": "IMG/PERSONAJES/Philippe.jpg",
+        "actor": "Pol Granch",
+        "video":""
+    },
+
+    {
+        "name": "Raúl",
+        "season": [6],
+        "image": "IMG/PERSONAJES/Raul.jpg",
+        "actor": "Álex Pastrana",
+        "video":""
+    },
+    
+    {
+        "name": "Raúl",
+        "season": [7],
+        "image": "IMG/PERSONAJES/Raul.jpg",
+        "actor": "Álex Pastrana",
+        "video":"https://www.youtube.com/watch?v=M2qeTTYvdTI"
+    },
+
+    {
+        "name": "Rebeka de Bormujo Ávalos (Rebe)",
+        "season": [2,3,4,5],
+        "image": "IMG/PERSONAJES/Rebeka.jpg",
+        "actor": "claudia Salas",
+        "video":""
+    },
+
+    {
+        "name": "Rocío",
+        "season": [7],
+        "image": "IMG/PERSONAJES/Rocio.jpg",
+        "actor": "Ana Bokesa",
+        "video":""
+    },
+
+    {
+        "name": "Samuel García Domínguez",
+        "season": [1,3,4],
+        "image": "IMG/PERSONAJES/Samuel.jpg",
+        "actor": "Itzan Escamilla",
+        "video":""
+    },
+
+    {
+        "name": "Samuel García Domínguez",
+        "season": [2],
+        "image": "IMG/PERSONAJES/Samuel.jpg",
+        "actor": "Itzan Escamilla",
+        "video":"https://www.youtube.com/watch?v=N0At-BrkcCU"
+    },
+
+    {
+        "name": "Samuel García Domínguez",
+        "season": [5],
+        "image": "IMG/PERSONAJES/Samuel.jpg",
+        "actor": "Itzan Escamilla",
+        "video":"https://www.youtube.com/watch?v=nyg3TiTzHmk"
+    },
+
+    {
+        "name": "Sara",
+        "season": [6,7,8],
+        "image": "IMG/PERSONAJES/Sara.jpg",
+        "actor": "Carmen Arrufat",
+        "video":""
+    },
+
+    {
+        "name": "Sonia",
+        "season": [7,8],
+        "image": "IMG/PERSONAJES/Sonia.jpg",
+        "actor": "Nadia Al Saidi",
+        "video":""
+    },
+
+    {
+        "name": "Valerio Montesinos Rojas",
+        "season": [2,3],
+        "image": "IMG/PERSONAJES/Valerio.jpg",
+        "actor": "Jorge López",
+        "video":""
+    },
+
+    {
+        "name": "Yeray",
+        "season": [3],
+        "image": "IMG/PERSONAJES/Yeray.jpg",
+        "actor": "Sergio Momo",
+        "video":""
+    },
+
+    {
+        "name": "Yusef Shanaa",
+        "season": [1],
+        "image": "IMG/PERSONAJES/Yusef.jpg",
+        "actor": "Abdelatif Hwidar",
+        "video":""
+    },
+
+    {
+        "name": "",
+        "season": [],
+        "image": "IMG/PERSONAJES/.jpg",
+        "actor": "",
+        "video":""
+    }
+]
