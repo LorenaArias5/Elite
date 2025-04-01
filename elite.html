@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es_ES">
+    <head>
+        <!--CONFIGURACIÓN BÁSICA-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <!--INFORMACIÓN DE SEO-->
+        <meta name="description" content="Descubre los personajes de cada temporada de Élite y quién ha muerto. Accede a videos de los momentos más impactantes de la serie.">
+        <meta name="keywords" content="Élite, personajes Élite, muertes Élite, temporadas Élite, serie Élite, Las Encinas, Netflix, misterio, drama, asesinatos en Élite">
+        <meta name="author" content="Lorena Arias">
+        <meta name="robots" content="index, follow">
+        <meta name="language" content="es">
+
+        <!--ICONO FAVICON EN LA PESTAÑA DE LA WEB-->
+        <link rel="icon" href="/IMG/ENCINAS.ico" type="image/x-icon">
+        <title>Elite</title>
+
+        <link rel="stylesheet" href="elite.css">
+
+        <!--OPEN GRAPH (FACEBOOK, LINKEDIN, ETC) PARA LAS REDES SOCIALES-->
+        <meta property="og:title" content="Personajes y muertes en Élite - Todas las temporadas">
+        <meta property="og:description" content="Descubre los personajes de cada temporada de Élite y quién ha  muerto. Accede a videos de los  momentos más impactantes de la serie.">
+        <meta property="og:image" content="https://lorenaarias5.github.io/Elite/IMG/fondo.jpeg">
+        <meta property="og:url" content="https://lorenaarias5.github.io/Elite/">
+        <meta property="og:type" content="website">
+
+        <!--Twitter Cards para las redes sociales-->
+        <meta name="twitter:card" content="sumary_large_image">
+        <meta name="twitter:title" content="Personajes y muertes en Élite - Todas las temporadas">
+        <meta name="twitter:description" content="Descubre los personajes de cada temporada de Élite y quién ha  muerto. Accede a videos de los  momentos más impactantes de la serie.">
+        <meta name="twitter:image" content="https://lorenaarias5.github.io/Elite/IMG/fondo.jpeg">
+    </head>
+
+    <body>
+        <header>
+            <img src="/IMG/LOGO ENCINAS.png" alt="Logo del Instituto de Las Encinas">
+            <h1>ELITE</h1>
+        </header>
+
+        <nav>
+            <ul>
+                <li><button class="botonHome" onclick="irInicio()">HOME</button></li>
+                <li><button class="botonTemporada" datos-temporada="1">TEMPORADA 1</button></li>
+                <li><button class="botonTemporada" datos-temporada="2">TEMPORADA 2</button></li>
+                <li><button class="botonTemporada" datos-temporada="3">TEMPORADA 3</button></li>
+                <li><button class="botonTemporada" datos-temporada="4">TEMPORADA 4</button></li>
+                <li><button class="botonTemporada" datos-temporada="5">TEMPORADA 5</button></li>
+                <li><button class="botonTemporada" datos-temporada="6">TEMPORADA 6</button></li>
+                <li><button class="botonTemporada" datos-temporada="7">TEMPORADA 7</button></li>
+                <li><button class="botonTemporada" datos-temporada="8">TEMPORADA 8</button></li>
+            </ul>
+        </nav>
+
+        <main>
+            <div id="inicio">
+                <h2>¿TE ATREVES A ADENTRARTE EN UNO DE LOS MISTERIOS MÁS OSCUROS DE ÉLITE?</h2>
+                
+                <div id="descripcion">
+                    <p>Sumérgete en un juego lleno de intriga y sorpresas, donde 8 emocionantes temporadas te retan a descubrir quién ha sido la víctima entre muertes, desapariciones y, en ocasiones, ¡varios crímenes en una misma entrega!</p>
+                    <p>Cada personaje luce un botón de “ver video”, pero atención: solo la víctima posee el enlace que te revelará la pista decisiva.</P>
+                    <p>Si aciertas, el video aparecerá debajo de los personajes… así que desliza hacia abajo y descubre la verdad.</p>
+                    <p>El tiempo corre… ¿Podrás encontrar a la víctima antes de que el asesino vuelva a atacar? ¿A cuántos podrás salvar? Eso solo tú lo decides.</p>
+                </div>
+
+                <img src="IMG/detective.png" alt="Silueta de un detective con una lupa en las manos">
+            </div>
+            
+            <div id="personajesTemporada"></div>
+
+            <div id="contenedorVideo">
+                <button id="botonCerrarVideo" onclick="cerrarVideo()" style="display: none;">X</button>
+            </div>
+
+        </main>
+
+        <footer>
+            <div class="asignatura">
+                <p>Diseño de interfaces web - 2º DAW</p>
+            </div>
+
+            <div class="autor">
+                <p>Realizado por Lorena</p>
+            </div>
+
+            <div class="redesSociales">
+                <a href="https://www.instagram.com/elitenetflix/" target="_blank">
+                    <img src="/IMG/REDES SOCIALES/instagram.png" alt="Instagram">
+                </a>
+
+                <a href="https://www.facebook.com/NetflixElite/?locale=es_ES" target="_blank">
+                    <img src="IMG/REDES SOCIALES/facebook.png" alt="Facebook">
+                </a>
+
+                <a href="https://x.com/EliteNetflix" target="_blank">
+                    <img src="IMG/REDES SOCIALES/twitter.png" alt="Twitter">
+                </a>
+
+                <a href="https://www.netflix.com/title/80200942" target="_blank">
+                    <img src="IMG/REDES SOCIALES/nextflix.jpg" alt="Netflix">
+                </a>
+            </div>
+        </footer>
+
+    </body>
+
+    <script src="elite.js"></script>
+
+</html>
